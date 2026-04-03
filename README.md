@@ -14,8 +14,6 @@ I am a web developer specializing in frontend development and currently expandin
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saqlainhaider04&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainhaider04&layout=compact&theme=dark)
-
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saqlainhaider04&show_icons=true&theme=dark&count_private=true)
